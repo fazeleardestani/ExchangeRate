@@ -1,0 +1,86 @@
+[
+    {
+      "id": "1",
+      "title": "دلار امریکا",
+      "price": "6953",
+      "changes": "+5%",
+      "status": "p"
+    },
+    {
+      "id": "2",
+      "title": "دلار استرالیا",
+      "price": "6197",
+      "changes": "-1.4%",
+      "status": "n"
+    },
+    {
+      "id": "3",
+      "title": "یورو",
+      "price": "6712",
+      "changes": "-2%",
+      "status": "n"
+    },
+    {
+      "id": "4",
+      "title": "دلار امریکا",
+      "price": "1180",
+      "changes": "+5%",
+      "status": "p"
+    },
+    {
+      "id": "5",
+      "title": "لیر ترکیه",
+      "price": "5098",
+      "changes": "+1.02%",
+      "status": "p"
+    },
+    {
+      "id": "6",
+      "title": "فرانک سوییس",
+      "price": "6105",
+      "changes": "-0.45%",
+      "status": "n"
+    },
+    {
+      "id": "7",
+      "title": "یوآن چین",
+      "price": "2736",
+      "changes": "+0.96%",
+      "status": "p"
+    },
+    {
+      "id": "8",
+      "title": "کرون سوئد",
+      "price": "1143",
+      "changes": "-0.9%",
+      "status": "n"
+    },
+    {
+      "id": "9",
+      "title": "دلار کانادا",
+      "price": "2386",
+      "changes": "+1.75%",
+      "status": "p"
+    },
+    {
+      "id": "10",
+      "title": "دلار سنگاپور",
+      "price": "3365",
+      "changes": "-0.12%",
+      "status": "n"
+    },
+    {
+      "id": "11",
+      "title": "دینار عراق ",
+      "price": "1777",
+      "changes": "+1.00%",
+      "status": "p"
+    },
+    {
+      "id": "12",
+      "title": "افغانی",
+      "price": "1713",
+      "changes": "-0.45",
+      "status": "-1.07%"
+    }
+  ]
