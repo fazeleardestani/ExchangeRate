@@ -1,0 +1,4 @@
+#Thu May 25 23:19:09 GMT+03:30 2023
+base.0=F\:\\Flutter\\Course\\Arz\\arz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
